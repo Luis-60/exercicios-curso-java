@@ -1,7 +1,7 @@
 import java.time.OffsetDateTime;
 import java.util.Scanner;
 
-public class App {
+public class Ano {
     public static void main(String[] args) throws Exception {
         var baseYear = OffsetDateTime.now().getYear();
         var scanner = new Scanner(System.in);
